@@ -42,7 +42,7 @@
 - **Kết quả**: Kết quả các thao tác sẽ được hiển thị dưới dạng `TextView` và `Toast`.
 
 ## Mẫu Giao Diện
-Giao diện trên màn hình chính 
+Giao diện trên màn hình chính
 <img width="559" height="901" alt="image" src="https://github.com/user-attachments/assets/aad79da0-09bb-4b80-a070-a05e596df335" />
 
 ### Kết quả Xử Lý Mảng

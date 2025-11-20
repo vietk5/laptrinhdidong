@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BTap20_11_2025_SQLiteDTB" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BTap20_11_2025_SQLiteDTB" parent="Base.Theme.BTap20_11_2025_SQLiteDTB" />
+</resources>

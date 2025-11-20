@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         InitDatabaseSQLite();
 //        clearAllNotes();
         databaseSQLite();
-//        createDatabaseSQLite();
+       createDatabaseSQLite();
     }
     private void createDatabaseSQLite(){
         // them du lieu vao bang

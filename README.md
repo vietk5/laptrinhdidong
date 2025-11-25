@@ -37,14 +37,15 @@ Hệ thống sản phẩm được tổ chức theo danh mục, và hỗ trợ c
 
    - **API:** `GET /api/products/top10-bestseller`
    - **Mô tả:** Lấy top 10 sản phẩm có trường `quantity` lớn nhất (coi như số lượng bán nhiều nhất).
-     ![Uploading image.png…]()
+     <img width="724" height="984" alt="Screenshot 2025-11-25 164639" src="https://github.com/user-attachments/assets/da7c727f-4fb3-4e7c-b53f-47354b1fb378" />
 
 
 3. **Hiển thị 10 sản phẩm được tạo trong vòng ≤ 7 ngày**
 
    - **API:** `GET /api/products/top10-newest`
    - **Mô tả:** Lấy 10 sản phẩm mới nhất có `createDate` nằm trong **7 ngày gần nhất** tính từ thời điểm hiện tại.
-    ![Uploading image.png…]()
+    <img width="757" height="991" alt="Screenshot 2025-11-25 164704" src="https://github.com/user-attachments/assets/90a6cd4d-90d4-46be-90f7-6f37e667b787" />
+
 
 ---
 

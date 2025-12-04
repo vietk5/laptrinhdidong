@@ -25,7 +25,6 @@ public class NotesAdapter extends BaseAdapter {
         this.layout = layout;
         this.noteList = noteList;
     }
-
     @Override
     public int getCount() {
         return noteList.size();

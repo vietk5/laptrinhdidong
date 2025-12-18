@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.socket_connection"
+    namespace = "com.example.manager"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.socket_connection"
+        applicationId = "com.example.manager"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -44,5 +44,4 @@ dependencies {
     implementation("io.socket:socket.io-client:2.0.0") {
         exclude(group = "org.json", module = "json")
     }
-
 }

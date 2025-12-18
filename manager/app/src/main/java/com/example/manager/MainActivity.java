@@ -1,4 +1,4 @@
-package com.example.socket_connection;
+package com.example.manager;
 
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
     private Button btnSend;
     private TextView txtChat;
 
-    private String role = "customer";
-    private String customerId = "C001";
+    private String role = "manager";
+    private String customerId = "M001";
 
     {
         try {
